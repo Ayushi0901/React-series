@@ -1,0 +1,26 @@
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 80%;
+}
+
+input::placeholder {
+  text-align: center;
+}
+
+.items-container {
+  text-align: left;
+}
+
+.ta-button {
+  min-width: 80px;
+}
+
+.ta-rows {
+  margin: 10px 5px;
+}
