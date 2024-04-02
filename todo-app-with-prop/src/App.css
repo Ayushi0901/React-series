@@ -1,0 +1,15 @@
+input {
+  width: 80%;
+}
+
+input::placeholder {
+  text-align: center;
+}
+
+.ta-button {
+  min-width: 80px;
+}
+
+.ta-rows {
+  margin: 10px 5px;
+}
